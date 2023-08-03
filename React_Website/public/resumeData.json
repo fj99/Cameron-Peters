@@ -1,0 +1,196 @@
+{
+  "main": {
+    "navbar": [
+      "Home",
+      "About",
+      "Education",
+      "Experience",
+      "Projects",
+      "Contact Me"
+    ],
+    "name": "Cameron Peters ",
+    "company": "Cameron Peters ",
+    "description": [
+      "Event Manager",
+      "Marketing Candidate ",
+      "Sport Management Graduate",
+      "Freelancer"
+    ],
+    "background_colors": [
+      "#BD10E0",
+      "#B8E986",
+      "#50E3C2",
+      "#FFD300",
+      "#E86363"
+    ],
+    "profile_pic": "images/profilepic.jpg",
+    "bio": "Effective communicator with a diligent work ethic. Proficient in Microsoft Office and clientele software. 4+ years of experience in event management, finance, and content marketing.Seeking a role in marketing and event management.  ",
+    "email": "cameronpeters4@yahoo.com",
+    "phone": "203-556-7295",
+    "linkedin": "https://www.linkedin.com/in/cameron-peters-04283822b/",
+    "project": "#portfolio",
+    "contactmessage": "If you wish to get in touch with me just state your name and your business and I will get back to you as soon as I get the chance. ",
+    "contact_side_heading": "",
+    "contact_side_msg": [
+      {
+        "message": "",
+        "url": "",
+        "date": ""
+      }
+    ],
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "https://fj99.github.io/Cameron-Peters",
+    "resume": "Cameron Peters Resume.PDF",
+    "social": [
+      {
+        "name": "linkedin",
+        "linkedin": "https://www.linkedin.com/in/cameron-peters-04283822b/",
+        "url": "",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "work_title": "Work Experience",
+    "skills_title": "Skills",
+    "message": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "image": "images/Southern_Connecticut_State_University.png",
+        "school": "Southern Connecticut State University",
+        "degree": "Bachelor's of Science Sport Management",
+        "comment": "",
+        "graduated": "August 2022",
+        "description": ""
+      },
+      {
+        "image": "images/Southern_Connecticut_State_University.png",
+        "school": "Southern Connecticut State University",
+        "degree": " Master of Business Administration ",
+        "comment": "Marketing Concentration",
+        "graduated": "May 2024",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Southern Connecticut State University",
+        "title": "Finance and Administrative Support Services Intern",
+        "years": "June 2023 - Present",
+        "description": "Support the Director of Residence Life in the development and compilation of the Residence Life annual spending plan, mid-year reports, periodic reports, fee requests and other financial reports. Assist in the preparation of revenue projections and annual budgets related to vending commissions. Create and maintain various financial spreadsheets for tracking, recording, analyzing and reporting purposes. Also, advise Residence Hall Councils and the Residence Hall Association on finance processes and assist with coordinating requisitions, honorariums, and personal service agreements.   "
+      },
+      {
+        "company": "Stratford Recreation Department",
+        "title": "League Director",
+        "years": "September 2022 - August 2023",
+        "description": "Head of children and adult recreation leagues. Oversee all staff, referees, umpires, and coaches. Schedule all games and staff assignments. Work with all coaches, staff, and athletes to promote the Town of Stratford's sport leagues.    "
+      },
+      {
+        "company": "Southern Connecticut State University",
+        "title": "Graduate Assistant",
+        "years": "August 2022 - May 2023",
+        "description": "Support the marketing and promotion of services to education candidates. Leadership in event planning, delivery, design and execute marketing and social media campaigns. Provide direct service support to students, faculty, and school district partners.    "
+      },
+      {
+        "company": "Connecticut Sports Management Group",
+        "title": "Summer Full Time Intern ",
+        "years": "May 2022 - August 2022",
+        "description": "Over 500 hours of recruiting, general advertising, and marketing for the Nutmeg State Games and Connecticut Masters Games. Day to day management of web pages, and game day operations while overseeing short term staff.    "
+      },
+      {
+        "company": "Southern Connecticut State University",
+        "title": "Tutor ",
+        "years": "August 2021 - May 2022",
+        "description": "Over 300 hours of experience tutoring college students in psychology,sociology, sport management, recreation, public speaking, music, and management.   "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Event Management and Planning",
+        "level": "100%"
+      },
+      {
+        "name": "Time Management",
+        "level": "100%"
+      },
+      {
+        "name": "Team Building",
+        "level": "100%"
+      },
+      {
+        "name": "Organization",
+        "level": "100%"
+      },
+      {
+        "name": "Project Management",
+        "level": "100%"
+      },
+      {
+        "name": "Communication",
+        "level": "100%"
+      },
+      {
+        "name": "Finance Administration",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "portfolio_title": "Check Out Some of My Works.",
+    "projects": [
+      {
+        "title": "Nutmeg State Games Basketball Tournament ",
+        "category": "Sport Event",
+        "date": "Summer 2022",
+        "image": "images/portfolio/basketball.jpg",
+        "url": "",
+        "description": "6 team AAU style tournament with 3 different age divisions"
+      },
+      {
+        "title": "Nutmeg State Games Judo Tournament",
+        "category": "Sport Event",
+        "date": "Summer 2022",
+        "image": "images/portfolio/judo.jpg",
+        "url": "",
+        "description": "Organized a judo competition with over 150 participants of all ages."
+      },
+      {
+        "title": "Nutmeg State Games Girls Soccer Tournament",
+        "category": "Sport Event",
+        "date": "Summer 2022",
+        "image": "images/portfolio/soccer.jpg",
+        "url": "",
+        "description": "8 team AAU style tournament with 3 age divisions."
+      },
+      {
+        "title": "Stratford Rec Girls Basketball League",
+        "category": "Sports League",
+        "date": "Nov. 2022-Jan. 2023",
+        "image": "images/portfolio/hoop.jpg",
+        "url": "",
+        "description": "2 division community basketball league with 4 teams."
+      },
+      {
+        "title": "Stratford Rec Beach Volleyball League",
+        "category": "Sports League",
+        "date": "Jun.2023-Aug. 2023",
+        "image": "images/portfolio/volleyball.jpg",
+        "url": "",
+        "description": "2 division league with over 15 total teams."
+      },
+      {
+        "title": "Stratford Rec Softball League",
+        "category": "Sports League",
+        "date": "May.2023-Sept. 2023",
+        "image": "images/portfolio/softball.jpg",
+        "url": "",
+        "description": "Coed and mens community league with over 10 teams"
+      }
+    ]
+  }
+}
